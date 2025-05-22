@@ -1,0 +1,4 @@
+node_modules
+notes.txt
+git config --global user.email "sai.office.bcpl@gmail.com"
+git config --global user.name "sai-office-bcpl"
